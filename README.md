@@ -1,2 +1,2 @@
 # csharp_bits
-Little bits of code. Useful.
+Little bits of C# code. Useful.
